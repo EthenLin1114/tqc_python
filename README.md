@@ -3,7 +3,7 @@ TQC的Python考試題目
 
 ## 檔案說明
 - 有test的檔案為我寫的答案
-- 沒有test的檔案為別人寫的答案，而且是在Code Judger(https://www.codejudger.com/)對過答案的
+- 沒有test的檔案為別人寫的答案，而且是在Code Judger(https://www.codejudger.com)對過答案的
 
 ## 類別
 - TQC+ 程式語言Python 第1類：基本程式設計
