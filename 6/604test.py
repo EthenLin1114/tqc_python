@@ -33,3 +33,16 @@ TQC+ 程式語言Python 604 眾數
 3
 '''
 
+d= {}
+
+for i in range (10):
+    n = eval(input())
+    if n not in d :
+        d[n] = 1
+    else:
+        d[n] += 1
+max_key = max(d, key=d.get)
+max_value = d[max_key]
+
+print(max_key)
+print(max_value)
